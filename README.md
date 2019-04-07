@@ -13,6 +13,8 @@ Dotfiles 备份与同步配置文件 http://notes.11ten.net/use-dotfiles.html
 使用STOW  
 - https://github.com/xero/dotfiles#how-it-works  
 - https://github.com/xieyunzi/dotfiles  
+- GNU tutorials  
+https://linuxconfig.org/how-to-use-gnu-stow-to-manage-programs-installed-from-source-and-dotfiles
 
 使用MACKUP 
 - https://github.com/lra/mackup
